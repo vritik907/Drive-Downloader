@@ -61,9 +61,4 @@ saveStreamInFile(file-id) // call the function
 - getRefreshToken will not work with ES6 syntax
 - File size is not included yet which means you will not able to see total size of file currently
 
-## CREDITS
-
-- [JUFFLER](https://github.com/hitesh911)
-
-
 ## **Thanks for using :-)**
